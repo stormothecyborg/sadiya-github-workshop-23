@@ -1,6 +1,6 @@
 //first comment 
 
-#include<stdio.h>
+#include<stdio.h> //including stdio 
 
 int main(){
        printf("hello world! \n");
